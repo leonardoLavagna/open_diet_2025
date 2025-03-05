@@ -7,7 +7,7 @@ To carry out this project we need:
 - LED strip (WS2812B, e.g. the [BTF-LIGHTING DC5V WS2812B ECO RGB](https://www.amazon.it/BTF-LIGHTING-indirizzabili-individualmente-flessibile-controller/dp/B088W62171?th=1) i used, not included in the Arduino Uno R3 Kit);
 - USB Cable (included in the Arduino Uno R3 Kit) to power the system;
 - Breadboard (included in the Arduino Uno R3 Kit) to smoothly connect the Arduino UNO R3 to the LED strip;
-- Resistor (included in the Arduino Uno R3 Kit), say of 10K$\Omega$;
+- Resistor (included in the Arduino Uno R3 Kit);
 - Button (included in the Arduino Uno R3 Kit);
 - Jumper wires (included in the Arduino Uno R3 Kit).
 
